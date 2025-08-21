@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+    overflow-x: hidden;
+}
+
+img {
+    display: block;
+    width: 30%;
+    margin: 2rem auto;
+    border-radius: 0.5rem;
+}
+
+h1,
+h3,
+h4 {
+    text-align: center;
+    margin: 1rem 0;
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 0.5rem 0;
+    text-align: center;
+}
+
+.methods {
+    margin-left: 2rem;
+    font-size: 1.2rem;
+}
+
+.methods,
+.soup {
+    text-align: center;
+}
